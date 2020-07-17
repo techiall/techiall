@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 <p align="center">Billboard rental</p>
 
 <p align="center">看板レンタル</p>
+
+
+<p align="right">Powered by Google translate</p>
