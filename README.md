@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">广告位招租</p>
+
+<p align="center">Billboard rental</p>
+
+<p align="center">看板レンタル</p>
