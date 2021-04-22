@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">广告位出租</p>
+广告位出租
 
-<p align="center">Billboard rental</p>
+Billboard rental
 
-<p align="center">看板レンタル</p>
+看板レンタル
 
 
-<p align="right">Powered by Google translate</p>
+Powered by Google translate
