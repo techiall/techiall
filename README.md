@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Techial's GitHub stats](https://github-readme-stats.vercel.app/api?username=techial1042&theme=dracula)
+
 <!--
 **techial1042/techial1042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
