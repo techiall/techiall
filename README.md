@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Techial's GitHub stats](https://github-readme-stats.vercel.app/api?username=techiall&theme=dracula)
-
+![Techial's GitHub stats](https://github-readme-stats.vercel.app/api?username=techiall&theme=dracula&count_private=true&show_icons=true)
 
 广告位出租
 
